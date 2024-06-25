@@ -29,12 +29,11 @@ This repository showcases a simple login page implementation using Qt framework,
 
 ---
 
-🚀 **Made with ❤️ by Sivasai Yarlagadda**
+🚀 **Made by ❤️ Sivasai Yarlagadda**
 
 Contact me:
 📧 Email: sivasaiyarlagadda2001@gmail.com
 
-💼 LinkedIn: [@Sivsai Yarlagadda]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/sivasai-yarlagadda/))
-
+💼 LinkedIn: [Sivsai Yarlagadda]([https://www.linkedin.com/in/sivasai-yarlagadda/])
 
 
